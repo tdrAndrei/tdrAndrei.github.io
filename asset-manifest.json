@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/portofolio/static/css/main.464ee1ff.css",
+    "main.js": "/portofolio/static/js/main.ebf06a6f.js",
+    "static/js/787.b7af92ad.chunk.js": "/portofolio/static/js/787.b7af92ad.chunk.js",
+    "static/media/postgre-icon.svg": "/portofolio/static/media/postgre-icon.e2838551604c3bd2c7f69811638016c0.svg",
+    "static/media/graphVis.png": "/portofolio/static/media/graphVis.b7f1e555a348f330292c.png",
+    "static/media/connect4.jpg": "/portofolio/static/media/connect4.349f13313f42030ca0a5.jpg",
+    "static/media/quiz.jpg": "/portofolio/static/media/quiz.426adf3ac3232bbcd664.jpg",
+    "static/media/cpp-icon.svg": "/portofolio/static/media/cpp-icon.22aca01bd8b28ad6aec1bfd1e04f847e.svg",
+    "static/media/go-icon.svg": "/portofolio/static/media/go-icon.3579a9d0f236a12c4a9274d22ad7fa81.svg",
+    "static/media/python-icon.svg": "/portofolio/static/media/python-icon.3e69dad62cccb202820fea2121731833.svg",
+    "static/media/instagram.svg": "/portofolio/static/media/instagram.c83e628eea4e83e0d2b6c8e54910510c.svg",
+    "static/media/spring-icon.svg": "/portofolio/static/media/spring-icon.4f0088e587e925fd83484e083cac0d1c.svg",
+    "static/media/nodejs-icon.svg": "/portofolio/static/media/nodejs-icon.649e18aebb839600170a1cd8286e5dc5.svg",
+    "static/media/github.svg": "/portofolio/static/media/github.a42e127fc7b7ed1e55897b49ec54046a.svg",
+    "static/media/reactjs-icon.svg": "/portofolio/static/media/reactjs-icon.a9690edcf210f45c0de8958cb391055a.svg",
+    "static/media/java-icon.svg": "/portofolio/static/media/java-icon.a3acc8edb458f64f75914bb8555ed8b7.svg",
+    "static/media/git-icon.svg": "/portofolio/static/media/git-icon.aaa6b8d62e7b9699515006e54d7d64a0.svg",
+    "index.html": "/portofolio/index.html",
+    "static/media/linkedin.svg": "/portofolio/static/media/linkedin.8762f6e957e5d6c297b9cbc434ecf218.svg",
+    "static/media/upperEdge.svg": "/portofolio/static/media/upperEdge.759915d2c65f130e4d33380fb0c433ba.svg",
+    "main.464ee1ff.css.map": "/portofolio/static/css/main.464ee1ff.css.map",
+    "main.ebf06a6f.js.map": "/portofolio/static/js/main.ebf06a6f.js.map",
+    "787.b7af92ad.chunk.js.map": "/portofolio/static/js/787.b7af92ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.464ee1ff.css",
+    "static/js/main.ebf06a6f.js"
+  ]
+}
